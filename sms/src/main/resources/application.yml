@@ -1,0 +1,12 @@
+server:
+  port: 1200
+
+contacts:
+  message: "Student contact information"
+  details:
+    name: "Java Technocrat"
+    address: "A/54, Saheed Nagar ,Bhubaneswar"
+  contactNumber:
+    - +91 9437010139
+    - +91 9337705714
+    - +91 6372152118
